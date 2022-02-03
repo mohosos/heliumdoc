@@ -1,4 +1,8 @@
 {
     "baseUrl":"https://heliumdoc.com/",
-    "testFiles": "**/*.feature"
+    "testFiles": "**/*.feature",
+    "defaultCommandTimeout":150000,
+    "pageLoadTimeout": 300000,
+    "requestTimeout":100000,
+    "responseTimeout": 300000
 }
