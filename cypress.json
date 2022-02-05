@@ -4,5 +4,6 @@
     "defaultCommandTimeout":150000,
     "pageLoadTimeout": 300000,
     "requestTimeout":100000,
-    "responseTimeout": 300000
+    "responseTimeout": 300000,
+    "chromeWebSecurity": false
 }
