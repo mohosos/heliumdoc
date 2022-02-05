@@ -50,15 +50,10 @@ Feature: HeliumDoc TestSuite
   Scenario: The user should be able to click on popular specialty links
     Given The user scroll down to the popular speciality links
     Then  The Obstetricians & Gynecologists link should has attribure href path and onlclick not empty 
-     
     Then  The Pediatricians link should has attribure href path and onlclick not empty 
-
     Then  The General Doctors link should has attribure href path and onlclick not empty
-
     Then  The Dentists link should has attribure href path and onlclick not empty
-
     Then  The Skin Doctors link should has attribure href path and onlclick not empty
-
     Then  The Eye Doctors link should has attribure href path and onlclick not empty
 
   Scenario: The user should be able to visit our Facebook page using the Facebook icon in our footer
